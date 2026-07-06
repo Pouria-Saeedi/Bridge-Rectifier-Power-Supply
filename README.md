@@ -1,5 +1,6 @@
-# Bridge-Rectifier-Power-Supply
-AC to DC Power Supply with Bridge Rectifier and Voltage Regulator (5V)
+# Bridge Rectifier Power Supply (220V AC to 5V DC)
+
+A regulated AC to DC power supply designed using Altium Designer and verified in NI Multisim.
 
 ## Overview
 
@@ -14,6 +15,18 @@ The circuit converts **220 V AC (50 Hz)** into a stable **5 V DC** output using:
 The circuit schematic and PCB were designed using **Altium Designer**, while the electrical performance was verified using **NI Multisim**.
 
 ---
+## Features
+
+- AC to DC Conversion
+
+- Full-Wave Bridge Rectifier
+
+- Voltage Regulation
+
+- PCB Design
+
+- Circuit Simulation
+
 
 ## Software
 
@@ -42,10 +55,12 @@ The circuit schematic and PCB were designed using **Altium Designer**, while the
 ## Project Structure
 
 ```
-Images/
-Altium/
-Multisim/
-Documentation/
+├── Images
+├── Altium
+├── Multisim
+├── Documentation
+├── README.md
+└── LICENSE
 ```
 
 ---
@@ -78,7 +93,7 @@ Documentation/
 
 Project report:
 
-📄 Documentation/Report.pdf
+📄 [Project Report](Documentation/Report.pdf)
 
 ---
 
@@ -87,3 +102,7 @@ Project report:
 **Pouria Saeedi**
 
 Electrical Engineering Student
+
+## License
+
+This project is released under the MIT License.
