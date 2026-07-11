@@ -32,7 +32,7 @@ The circuit schematic and PCB were designed using **Altium Designer**, while the
 
 - Altium Designer
 - NI Multisim
-
+- Proteus
 ---
 
 ## Input Specifications
@@ -59,6 +59,7 @@ The circuit schematic and PCB were designed using **Altium Designer**, while the
 ├── Altium
 ├── Multisim
 ├── Documentation
+├── Proteus
 ├── README.md
 └── LICENSE
 ```
